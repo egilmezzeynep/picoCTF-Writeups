@@ -1,2 +1,2 @@
 # CTF-Writeups
-Çözdüğüm picoCTF sorularının çözümleri!
+**Çözdüğüm picoCTF sorularının çözümleri!**
