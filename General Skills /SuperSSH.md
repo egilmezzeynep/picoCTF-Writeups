@@ -8,6 +8,8 @@ This CTF challenge is designed to teach how to establish an SSH connection. If y
 1. I opened the terminal and connected using the given SSH details:  
    ```bash
    ssh ctf-player@titan.picoctf.net -p 53615
+   ```
+   
 
     Since this was my first connection, I typed "yes" to confirm.
     I entered the provided password and successfully logged into the server.
