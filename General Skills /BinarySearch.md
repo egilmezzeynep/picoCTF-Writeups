@@ -1,4 +1,4 @@
-#  **picoCTF - General Skills: Description (Easy)**  
+#  **picoCTF - General Skills: Binary Search (Easy)**  
 
 ##  Challenge Description  
 In this challenge, we need to **establish an SSH connection and solve a number guessing game**.  
