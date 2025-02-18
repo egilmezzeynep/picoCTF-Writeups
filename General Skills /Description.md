@@ -5,7 +5,7 @@ In this challenge, we need to **establish an SSH connection and solve a number g
 
 ---
 
-## 🕵 Solution Steps  
+##  Solution Steps  
 
 ### 1. Extracting the ZIP File  
 First, I **unzipped the provided ZIP file** and examined its contents.  
