@@ -36,8 +36,8 @@ The game required guessing a number between 1 and 1000.
 I used the binary search approach to efficiently narrow down the possibilities.
  My Guesses:
 
-    500 → Lower (The correct number is smaller)
-    250 → Higher (The correct number is larger)
+    500 → Lower 
+    250 → Higher 
     350 → Lower
     300 → Higher
     325 → Lower
