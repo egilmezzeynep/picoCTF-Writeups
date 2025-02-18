@@ -2,6 +2,7 @@
 #  picoCTF - General Skills: Super SSH (Easy)
 
 ##  Description  
+[You can access the challenge here](https://play.picoctf.org/practice/challenge/424?category=5&page=1&search=).
 This CTF challenge is designed to teach how to establish an SSH connection. If your device doesn’t have a terminal, you can use the [web shell](https://webshell.picoctf.org).  
 
 ##  Solution Steps:  
