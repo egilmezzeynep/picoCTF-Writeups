@@ -12,9 +12,9 @@ In this CTF, we need to understand big-endian and little-endian conversions to f
      nc titan.picoctf.net 49304
      ```
    - Running the command, we see the following message:
-     ```
+     
      Welcome to the Endian CTF! You need to find both the little-endian and big-endian representations of a given word. If you get both correct, you will receive the flag.
-     ```
+     
    - Then, we are given a random word. For example: `uqszx`
 
 2. **Using CyberChef**
