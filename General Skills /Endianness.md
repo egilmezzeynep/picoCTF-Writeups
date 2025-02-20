@@ -1,4 +1,4 @@
-# picoCTF - Web Exploitation - Endianness (Easy)
+# picoCTF - General Skills - Endianness (Easy)
 
 ## Description
 In this CTF, we need to understand big-endian and little-endian conversions to find the correct answer.
