@@ -11,24 +11,24 @@ This CTF challenge is designed to help us understand the concept of **endianness
    ```
 
 
-    After executing the command, I was given a word and asked to find both its little-endian and big-endian representations.
-   
-    Example word: uqszx (Note: The word may be different for each attempt!)
-   
-    Used CyberChef to convert the word into hexadecimal format:
-   
-        Applied the "To Hex" operation.
-   
-        Enabled the "Reverse" operation to get the little-endian format.
-   
-        Disabled the "Reverse" operation to get the big-endian format.
-   
-    Submitted both formats in the terminal and retrieved the flag!
+After executing the command, I was given a word and asked to find both its little-endian and big-endian representations.
+
+Example word: uqszx (Note: The word may be different for each attempt!)
+
+Used CyberChef to convert the word into hexadecimal format:
+
+Applied the "To Hex" operation.
+
+Enabled the "Reverse" operation to get the little-endian format.
+    
+Disabled the "Reverse" operation to get the big-endian format.
+    
+Submitted both formats in the terminal and retrieved the flag!
 
    
-   ```
-   picoCTF{3ndi4n_sw4p_su33ess_02999450}
-   ```
+    ```
+    picoCTF{3ndi4n_sw4p_su33ess_02999450}
+    ```
 
 
 # What is Endianness?
