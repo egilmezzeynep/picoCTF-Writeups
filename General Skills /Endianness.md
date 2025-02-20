@@ -41,13 +41,13 @@ Computers store numbers using two different methods: **big-endian** and **little
 
 ### Example
 Suppose we have the number **1234**. In **hexadecimal**, it is written as:
-'''
+
 1234 → 0x12 34
-'''
+
 If stored in little-endian format:
-'''
+
 0x34 12 (bytes are reversed)
-'''
+
 
 Operations performed in CyberChef:
 1. **"To Hex"** converts the word into a hexadecimal representation.
