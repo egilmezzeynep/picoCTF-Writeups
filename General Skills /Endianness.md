@@ -23,6 +23,7 @@ This CTF challenge is designed to help us understand the concept of **endianness
         Disabled the "Reverse" operation to get the big-endian format.
    
     Submitted both formats in the terminal and retrieved the flag!
+
    
    ```
    picoCTF{3ndi4n_sw4p_su33ess_02999450}
