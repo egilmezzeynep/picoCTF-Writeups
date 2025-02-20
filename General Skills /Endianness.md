@@ -10,6 +10,7 @@ This CTF challenge is designed to help us understand the concept of **endianness
    nc titan.picoctf.net 59809
    ```
 
+
     After executing the command, I was given a word and asked to find both its little-endian and big-endian representations.
    
     Example word: uqszx (Note: The word may be different for each attempt!)
