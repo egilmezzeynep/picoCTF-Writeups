@@ -30,11 +30,13 @@ picoCTF{3ndi4n_sw4p_su33ess_02999450}
 ```
 
 --------------------------
+
 # What is Endianness?
 
 Computers store numbers in two different ways: big-endian and little-endian.
 
     Big-Endian: The most significant byte (biggest part) is stored first.
+    
     Little-Endian: The least significant byte (smallest part) is stored first.
 
  Example:
