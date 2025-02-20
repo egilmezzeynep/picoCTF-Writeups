@@ -27,7 +27,7 @@ Submitted both formats in the terminal and retrieved the flag!
 
    
     ```
-    picoCTF{3ndi4n_sw4p_su33ess_02999450}
+   picoCTF{3ndi4n_sw4p_su33ess_02999450}
     ```
 
 
