@@ -1,7 +1,7 @@
-## Wave a Flag - picoCTF
+# picoCTF - General Skills: Wave a Flag  (Easy)
 
 ### Challenge Description
-We are given an executable file and need to determine how to extract the flag from it.
+We are given an executable file and need to determine how to extract the flag from it. [You can access the challenge here](https://play.picoctf.org/practice/challenge/170?category=5&page=2).
 
 ### Solution
 1. **Download the given file:**
