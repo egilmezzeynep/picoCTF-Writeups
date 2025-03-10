@@ -22,9 +22,9 @@ We are given an executable file and need to determine how to extract the flag fr
    ./warm
    ```
    The output is:
-   ```
-   Hello user! Pass me a -h to learn what I can do!
-   ```
+   
+   **Hello user! Pass me a -h to learn what I can do!**
+   
 
 4. **Check available options:**
    ```bash
