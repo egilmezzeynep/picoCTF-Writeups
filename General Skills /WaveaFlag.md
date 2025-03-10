@@ -13,10 +13,6 @@ We are given an executable file and need to determine how to extract the flag fr
    ```
    This command reveals that `warm` is an executable file.
 
-3. **Check execution permissions:**
-   ```bash
-   ls -l warm
-   ```
    If the file does not have execute permissions, we need to grant them.
 
 4. **Grant execution permissions:**
