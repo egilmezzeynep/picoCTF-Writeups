@@ -7,21 +7,17 @@ We are given an executable file and need to determine how to extract the flag fr
 1. **Download the given file:**
    We first download the provided file and check its properties.
 
-2. **Check file type:**
-   ```bash
-   file warm
-   ```
    This command reveals that `warm` is an executable file.
 
    If the file does not have execute permissions, we need to grant them.
 
-4. **Grant execution permissions:**
+2. **Grant execution permissions:**
    ```bash
    chmod +x warm
    ```
    This makes the file executable.
 
-5. **Run the executable:**
+3. **Run the executable:**
    ```bash
    ./warm
    ```
@@ -30,7 +26,7 @@ We are given an executable file and need to determine how to extract the flag fr
    Hello user! Pass me a -h to learn what I can do!
    ```
 
-6. **Check available options:**
+4. **Check available options:**
    ```bash
    ./warm -h
    ```
